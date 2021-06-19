@@ -1,6 +1,9 @@
 # 3ColumnCardFrontEndMentorChallenge
 this repo contains solution to 3cloumn card challenge on frontendmentor
 
+![image](https://user-images.githubusercontent.com/82470912/122642922-dfbbb200-d0da-11eb-8ba5-b4a05c157df4.png)
+
+
 # Frontend Mentor - 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -29,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/saxenatanya/3ColumnCardFrontEndMentorChallenge](https://your-solution-url.com)
-- Live Site URL: [https://saxenatanya.github.io/3ColumnCardFrontEndMentorChallenge/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/saxenatanya/3ColumnCardFrontEndMentorChallenge]
+- Live Site URL: [https://saxenatanya.github.io/3ColumnCardFrontEndMentorChallenge/]
 
 
 ### Built with
